@@ -1,6 +1,4 @@
-<a href="http://edadconsalud.com/?lang=en"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="160"> 
-</a>
+<a href="http://edadconsalud.com/?lang=en"> <img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="160" align="right"> </a>
 
 # Aging and Health Study 
 ## Introdution
