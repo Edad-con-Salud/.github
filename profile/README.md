@@ -1,4 +1,4 @@
-<a href="http://edadconsalud.com/?lang=en"> <img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="160" align="right"> </a>
+<a href="http://edadconsalud.com/?lang=en"> <img src="https://github.com/Edad-con-Salud/.github/tree/main/Images/logo.png" width="160" align="right"> </a>
 
 # Aging and Health Study 
 ## Introdution
@@ -24,17 +24,17 @@ You can find more details about data access and use in http://edadconsalud.com/c
 
 
 <a href="https://www.cibersam.es/"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/ciber.png" width="200"> 
+<img src="https://github.com/Edad-con-Salud/.github/tree/main/Images/ciber.png" width="200"> 
 </a>
 <a href="https://www.pssjd.org/"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/sjd.jpg" width="200"> 
+<img src="https://github.com/Edad-con-Salud/.github/tree/main/Images/sjd.jpg" width="200"> 
 </a>
 <a href="https://www.ccomsuam.org/?lang=en"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/ccoms.png" width="200"> 
+<img src="https://github.com/Edad-con-Salud/.github/tree/main/Images/ccoms.png" width="200"> 
 </a>
     <a href="https://www.uam.es/medicina/inicio"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/uam.png" width="100"> 
+<img src="https://github.com/Edad-con-Salud/.github/tree/main/Images/uam.png" width="100"> 
 </a>
     <a href="https://www.iis-princesa.org/"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/FIB.png" width="120"> 
+<img src="https://github.com/Edad-con-Salud/.github/tree/main/Images/FIB.png" width="120"> 
 </a>
