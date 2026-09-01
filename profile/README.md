@@ -19,3 +19,5 @@ The scripts containing the analyses from the “Edad con Salud” study are avai
 If the proposal is approved, the interested party will receive an email indicating that the proposal has been accepted and must sign a data access agreement. Subsequently, the researcher supervising the proposal will provide access to the scripts.
 
 You can find more details about data access and use in http://edadconsalud.com/contacto/?lang=en
+
+<a href="http://edadconsalud.com/?lang=en"> <img src="https://github.com/Edad-con-Salud/git_material/tree/main/Images/logo.png" width="300"> </a>
