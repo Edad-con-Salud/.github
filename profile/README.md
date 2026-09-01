@@ -21,18 +21,18 @@ If the proposal is approved, the interested party will receive an email indicati
 You can find more details about data access and use in http://edadconsalud.com/contacto/?lang=en
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://edadconsalud.com/?lang=en"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="300"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="100"> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.uam.es/uam/inicio"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/uam.png" width="150"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/uam.png" width="50"> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.iis-princesa.org/"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/FIB.png" width="180"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/FIB.png" width="80"> 
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cibersam.es/"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/cibersam.jpg" width="300"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/cibersam.jpg" width="100"> 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.pssjd.org/"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/sjd.jpg" width="300"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/sjd.jpg" width="100"> 
 </a>
