@@ -1,4 +1,8 @@
-# Aging and Health Study
+<a href="http://edadconsalud.com/?lang=en"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="160"> 
+</a>
+
+# Aging and Health Study 
 ## Introdution
 Ageing and Health is a longitudinal study on the health status of the Spanish population, directed by researchers from the Department of Psychiatry of the Universidad Autónoma de Madrid (UAM), the Collaborating Center of the World Health Organization, the Parc Sanitari Sant Joan de Déu (PSSJD) from Barcelona,and the Hospital Universitario de La Princesa, in Madrid. This project was supported by the European Community's Seventh Framework Programme (FP7/2007–2013) under grant agreement number 223071 (COURAGE in Europe); by the Spanish Ministry of Science and Innovation ACI-Promociona (ACI2009-1010); by the Instituto de Salud Carlos III-FIS (research grant numbers PS09 / 00295, PS09 / 01845, PI12 / 01490, PI13 / 00059, PI16 / 00218, PI16 / 01073, PI19 / 00088, PI19 / 00103, PI19 / 00150, PI19 / 00235, PI22 / 00375, PI22 / 00340, PI22 / 00309 and PI22 / 00374); and by the Instituto de Salud Carlos III Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Since 2009, its objective has been to analyze the determinants of physical and mental health as people age through face-to-face interviews in the private homes of the participants. Information on households was provided by the National Statistics Institute.
 
@@ -20,9 +24,7 @@ If the proposal is approved, the interested party will receive an email indicati
 
 You can find more details about data access and use in http://edadconsalud.com/contacto/?lang=en
 
-<a href="http://edadconsalud.com/?lang=en"> 
-<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="160"> 
-</a>
+
 <a href="https://www.cibersam.es/"> 
 <img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/ciber.png" width="200"> 
 </a>
