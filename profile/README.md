@@ -20,4 +20,7 @@ If the proposal is approved, the interested party will receive an email indicati
 
 You can find more details about data access and use in http://edadconsalud.com/contacto/?lang=en
 
-<a href="http://edadconsalud.com/?lang=en"> <img src="https://github.com/Edad-con-Salud/git_material/tree/main/Images/logo.png" width="300"> </a>
+<a href="http://edadconsalud.com/?lang=en"> 
+<img src="https://github.com/Edad-con-Salud/git_material/blob/main/Images/logo.png" width="300"> 
+</a>
+
